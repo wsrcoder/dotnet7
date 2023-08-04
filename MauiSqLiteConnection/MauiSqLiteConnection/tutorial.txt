@@ -1,0 +1,4 @@
+Using EF Core with SQLite in .NET MAUI
+
+
+https://youtu.be/sS1xej5YoLs?t=749
