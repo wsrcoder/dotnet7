@@ -1,9 +1,0 @@
-Using EF Core with SQLite in .NET MAUI
-
-
-https://youtu.be/sS1xej5YoLs?t=749
-
-
-How to Package and Deploy NET MAUI App for Windows
-
-https://youtu.be/1Y06yuPEFC0?t=194
