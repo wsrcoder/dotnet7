@@ -1,0 +1,11 @@
+
+Instalar e configurar o dotnet CLI corretamente
+Entity Framework Core tools reference - .NET Core CLI:
+https://learn.microsoft.com/en-us/ef/core/cli/dotnet
+
+
+comandos de migrations
+
+dotnet ef migrations add [nome-migrtion] -o "[Diretorio-de-criacao]"
+dotnet ef migrations remove
+dotnet ef database update
