@@ -1,0 +1,6 @@
+
+CREATE TABLE Usuarios(Id INT IDENTITY(1,1),
+					  Nome VARCHAR(50),
+					  Credencial VARCHAR(50),
+					  DataCriacao DATETIME,
+					  DataAtualizacao DATETIME)
